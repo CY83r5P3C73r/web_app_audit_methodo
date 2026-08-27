@@ -1,8 +1,3 @@
----
-created: 2024-12-11T10:15:00
-tags: 
-author: Romain PASTORELLI
----
 # Fil conducteur d'un audit d'application web
 ## Phase 1 - Prise d'informations
 
